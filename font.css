@@ -1,0 +1,9 @@
+@font-face {
+  font-family: my1font;
+  src: url(./Inter-VariableFont_slnt\wght.ttf);
+}
+
+@font-face {
+  font-family: my2font;
+  src: url(./LexendDeca-VariableFont_wght.ttf);
+}
